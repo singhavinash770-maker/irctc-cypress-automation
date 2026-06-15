@@ -71,12 +71,12 @@
 > ```
 ```
 {
-  "TRAIN_NO": "12318",
-  "TRAIN_COACH": "3A",
-  "TRAVEL_DATE": "12/09/2023",
-  "SOURCE_STATION": "UMB",
+  "TRAIN_NO": "15484",
+  "TRAIN_COACH": "SL",
+  "TRAVEL_DATE": "17/06/2026",
+  "SOURCE_STATION": "NDLS",
   "BOARDING_STATION": null, <-- Change to full station name if required, else leave null
-  "DESTINATION_STATION": "BSB",
+  "DESTINATION_STATION": "PNBE",
   "TATKAL": true,
   "PREMIUM_TATKAL": false,
   "UPI_ID_CONFIG": "",
@@ -85,7 +85,7 @@
       "NAME": "SHIVAM PANDEY",
       "AGE": 25,
       "GENDER": "Male",
-      "SEAT": "Side Upper",
+      "SEAT": "Upper",
       "FOOD" "No Food"
     }
   ],
